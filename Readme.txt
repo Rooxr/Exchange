@@ -1,0 +1,1 @@
+This is a django app which goal is to help health professionals exchange their shifts
